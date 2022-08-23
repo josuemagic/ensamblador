@@ -1,0 +1,4 @@
+Creas un archivo de codigo fuente
+Guardarlo con extencion .asm y configuracion UTF-8
+Instalar Emulador
+Correr archivo desde tasm
